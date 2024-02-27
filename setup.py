@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name='qcktypes',
     author='smugvee',
-    description='Python implementation of dyne's file extension list',
+    description='Python implementation of dyne\'s file extension list',
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
