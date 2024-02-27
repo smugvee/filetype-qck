@@ -13,7 +13,6 @@ setup(
     url='https://github.com/smugvee/qcktypes',
     version="1.0",
     packages=find_packages(),
-    install_requires=requirements,
 classifiers=[
         'Programming Language :: Python :: 3 :: Only',
         'License :: OSI Approved :: MIT License'
