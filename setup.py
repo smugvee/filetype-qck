@@ -11,7 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     license='MIT',
     url='https://github.com/smugvee/qcktypes',
-    version="1.0",
+    version="1.1",
     packages=find_packages(),
 classifiers=[
         'Programming Language :: Python :: 3 :: Only',
