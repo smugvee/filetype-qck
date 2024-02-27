@@ -13,8 +13,7 @@ def handle_type(file_extension):
     "slide": "ppt,odp",
     "text": "doc,docx,ebook,log,md,msg,odt,org,pages,pdf,rtf,rst,tex,txt,wpd,wps",
     "video": "3g2,3gp,aaf,asf,avchd,avi,drc,flv,m2v,m4p,m4v,mkv,mng,mov,mp2,mp4,mpe,mpeg,mpg,mpv,mxf,nsv,ogg,ogv,ogm,qt,rm,rmvb,roq,srt,svi,vob,webm,wmv,yuv",
-    "web": "html,htm,css,js,jsx,less,scss,wasm,php"
-}
+    "web": "html,htm,css,js,jsx,less,scss,wasm,php"}
     for category, extensions in types.items():
         if file_extension in extensions:
             return category
