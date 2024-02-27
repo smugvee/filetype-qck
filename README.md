@@ -1,7 +1,7 @@
 # qcktypes
 *Python implementation of [Dyne's file extension list](https://github.com/dyne/file-extension-list)*
 ## What does that even mean
-There I was, trying to get files out of a directory and categorize them based on their file extension. "This is probably already a module I said". I was right, there it was glorious [filetype](https://pypi.org/project/filetype/).
+There I was, trying to get files out of a directory and categorize them based on their file extension. "This is probably already a module" I said. I was right, there it was glorious [filetype](https://pypi.org/project/filetype/).
 
 "Wait... what is a mime bruh 😭"
 
