@@ -18,7 +18,7 @@ def handle_type(file_extension):
         if file_extension in extensions:
             return category
 
-def find_type(file):
+def find_type(file:str)->str:
     _, extension = os.path.splitext(file)
     ext_str = extension[1:]
     category = handle_type(file_extension=ext_str)
